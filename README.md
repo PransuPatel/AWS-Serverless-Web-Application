@@ -1,1 +1,3 @@
 # AWS-Serverless-Web-Application
+
+In this project, I've developed a serverless application integrating React for the frontend and AWS Lambda, powered by Node.js, for the backend. DynamoDB serves as the storage solution for static data, while S3 initially hosts and manages static files via a CI/CD pipeline. API Gateway is used in connecting the React frontend to the serverless backend, enabling smooth data interactions. This architecture showcases the synergy between dynamic interface of React, AWS Lambda's efficient serverless functions, DynamoDB's scalable NoSQL data storage, and S3's secure file hosting, resulting in a high-performing, scalable, and responsive application.
